@@ -1,0 +1,33 @@
+.menu_container {
+  margin: 21px 0px 0px 19px;
+}
+.menu_image {
+  width: 41px;
+}
+.main_header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.logo_container {
+  margin-top: -40px;
+}
+.logo_header {
+  width: 84px;
+}
+.main_title_container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.main_title {
+  color: $color-brand01;
+}
+.decoration_container {
+  margin-top: -10px;
+}
+.decoration_header {
+  width: 223px;
+}
