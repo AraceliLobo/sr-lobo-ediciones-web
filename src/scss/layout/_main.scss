@@ -28,3 +28,25 @@
   font-weight: 300px;
   margin-top: 4px;
 }
+.authors_section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 25px;
+}
+.authors_container {
+  background-image: url("../images/authors_background.jpg");
+  width: 225px;
+  height: 140px;
+  border: 0.2px solid $color-brand01;
+}
+.authors_title {
+  color: $color-brand01;
+  font-family: $font-secondary;
+  font-size: 20px;
+  justify-content: center;
+  text-align: center;
+  width: 162px;
+  margin: 40px 0 0 35px;
+}
